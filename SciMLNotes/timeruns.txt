@@ -1,0 +1,17 @@
+axpy1,1,26.439712 seconds (700.00 M allocations: 14.876 GiB, 23.54% gc time, 0.01% compilation time)
+axpy1,2,33.786470 seconds (700.00 M allocations: 15.331 GiB, 40.02% gc time)
+axpy1,3,27.188869 seconds (700.00 M allocations: 14.876 GiB, 26.52% gc time)
+axpy2,1,2.186016 seconds (100.00 M allocations: 4.445 GiB, 54.23% gc time)
+axpy2,2,2.359255 seconds (100.00 M allocations: 4.445 GiB, 59.70% gc time)
+axpy3,1,0.768183 seconds (318.26 k allocations: 1.506 GiB, 61.23% gc time, 8.19% compilation time
+axpy3,2,0.208607 seconds (6 allocations: 1.490 GiB, 21.18% gc time)
+axpy3,3,0.178214 seconds (6 allocations: 1.490 GiB, 7.01% gc time)
+axpy-b,1,0.163405 seconds (197.05 k allocations: 773.089 MiB, 2.06% gc time, 23.88% compilation time
+axpy-b,2,0.098061 seconds (5 allocations: 762.953 MiB, 7.33% gc time)
+axpy-b,3,0.123068 seconds (5 allocations: 762.953 MiB, 26.59% gc time)
+axpy-b32,1,0.111417 seconds (206.29 k allocations: 392.056 MiB, 2.32% gc time, 35.46% compilation time) 
+axpy-b32,2,0.051608 seconds (5 allocations: 381.484 MiB, 13.88% gc time)
+axpy-b32,3,0.076945 seconds (5 allocations: 381.484 MiB, 37.47% gc time)
+axpy-linear-alg,1,0.018216 seconds (23.35 k allocations: 1.136 MiB, 62.32% compilation time)
+axpy-linear-alg,2,0.010016 seconds
+axpy-linear-alg0.006794 seconds
